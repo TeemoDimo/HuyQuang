@@ -1,1 +1,1 @@
-# EdgeX
+# HuyQuang
